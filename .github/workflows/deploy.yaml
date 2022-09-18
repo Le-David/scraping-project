@@ -6,7 +6,7 @@ on:
 
 jobs:
   python_ci:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         python-version: [3.8]
