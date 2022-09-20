@@ -1,4 +1,4 @@
-# scrapping-candy
+# scraping-project
 
 - Project uses "Scrappy" [Scrappy](https://scrapy.org/) for crawling and extracting data
 - The quickstart is followed by [Build a Web Scraper with MongoDB](https://www.mongodb.com/basics/how-to-use-mongodb-to-store-scraped-data)
